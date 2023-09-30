@@ -9,7 +9,7 @@ def index(request):
 
 	<html>
 		<body>
-			<h1>welcome to Django </h1>
+			<h1>welcome to Django</h1>
 		</body>
 	</html>
 
